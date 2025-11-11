@@ -1,7 +1,19 @@
+//   ____                _           _   _           
+//  / ___|_ __ ___  __ _| |_ ___  __| | | |__  _   _ 
+// | |   | '__/ _ \/ _` | __/ _ \/ _` | | '_ \| | | |
+// | |___| | |  __/ (_| | ||  __/ (_| | | |_) | |_| |
+//  \____|_|  \___|\__,_|\__\___|\__,_| |_.__/ \__, |
+//  ____  _ _         _____                    |___/ 
+// / ___|| (_)____   / ___ \                         
+// \___ \| | |_  /  / | _ \ \                        
+//  ___) | | |/ /  |  |   /  |                       
+// |____/|_|_/___|  \ |_|_\ /                        
+//                   \_____/   
+
 Sliz Open Source License (SOSL)
 Version 1.0, 2025
 
-Copyright (C) 2019-2025 Sliz™
+Copyright (C) 2019-2025 Sliz®
 Founded: 2019
 License Created: 2025
 
@@ -15,7 +27,7 @@ This license is confirmed and certified by:
 - GitHub License
 - GitHub Site
 
-All rights reserved for Sliz™, but permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+All rights reserved for Sliz®, but permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
 
 1. **Open Source Requirement**:
    The source code of this Software must always be made available. If the Software is distributed in a compiled or "closed" form (e.g., as a binary), the source code must either:
@@ -24,19 +36,19 @@ All rights reserved for Sliz™, but permission is hereby granted, free of charg
 
 2. **Attribution**:
    Any person or entity copying, modifying, or distributing the Software, or creating derivative works based on the Software, must provide attribution to Sliz™ by including one of the following:
-   - A comment in the source code stating: "This project is created by Sliz™" or "This project is based on the work of Sliz™".
-   - A visible notice in the application, program, or documentation stating: "This project is created by Sliz™" or "This project is based on the work of Sliz™".
+   - A comment in the source code stating: "This project is created by Sliz®" or "This project is based on the work of Sliz®".
+   - A visible notice in the application, program, or documentation stating: "This project is created by Sliz®" or "This project is based on the work of Sliz®".
 
 3. **Derivative Works**:
-   By copying or modifying this Software, you agree that any derivative work must also be distributed under an open-source license, ensuring the source code is freely available. If you choose to distribute a derivative work in a closed-source form, you must still include a notice in the application, program, or documentation acknowledging the original work by Sliz™, as described in Section 2.
+   By copying or modifying this Software, you agree that any derivative work must also be distributed under an open-source license, ensuring the source code is freely available. If you choose to distribute a derivative work in a closed-source form, you must still include a notice in the application, program, or documentation acknowledging the original work by Sliz®, as described in Section 2.
 
 4. **Legal Enforcement**:
-   Failure to comply with the terms of this license, including the open-source requirement and attribution, will result in legal action by Sliz™. We strongly recommend adhering to these terms by including a single line of attribution to avoid any legal consequences.
+   Failure to comply with the terms of this license, including the open-source requirement and attribution, will result in legal action by Sliz®. We strongly recommend adhering to these terms by including a single line of attribution to avoid any legal consequences.
 
 5. **User Confirmation**:
-   By using, copying, or modifying this Software, you confirm your agreement to these terms. You acknowledge that any derivative work you create will either be distributed as open source or, if closed source, will include a notice crediting Sliz™, as outlined in Sections 2 and 3.
+   By using, copying, or modifying this Software, you confirm your agreement to these terms. You acknowledge that any derivative work you create will either be distributed as open source or, if closed source, will include a notice crediting Sliz®, as outlined in Sections 2 and 3.
 
 6. **No Warranty**:
    The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall Sliz™ be liable for any claim, damages, or other liability arising from the use of the Software.
 
-For inquiries, contact Sliz™ at [contact information to be added by Sliz™].
+For inquiries, contact Sliz® at markd.voznyuk@gmail.com
