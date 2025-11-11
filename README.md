@@ -17,8 +17,8 @@ This is the <b>official firmware</b> for <b>ESP32</b> <b>(M5StickC Plus2)</b> Th
 
 6)After that connect the piezo element (BUZZER) to GND (Black wire) and (Red wire) to G26
 
-<b>If something is <b>not working properly</b>, does not load or does not work then write to the administrator: <b>abs.mark.photo@gmail.com</b>
+<b>If something is <b>not working properly</b>, does not load or does not work then write to the admin: <b>markd.voznyuk@gmail@gmail.com</b>
 
 # P.S
 
-The installation is available through the Arduino IDE, so we have every right to change the code for yourself or look at the code, so you can completely trust us! Although we would like to remain anonymous for you and our code, but because we made our own license, you can do this but leave the code Open and leave a commented line: Made by Sliz™ or Made by (You) And taken as a basis from Sliz™
+The installation is available through the Arduino IDE, so we have every right to change the code for yourself or look at the code, so you can completely trust us! Although we would like to remain anonymous for you and our code, but because we made our own license, you can do this but leave the code Open and leave a commented line: Made by Sliz® or Made by (You) And taken as a basis from Sliz™
