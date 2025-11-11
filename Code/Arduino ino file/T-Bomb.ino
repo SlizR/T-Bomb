@@ -1,12 +1,23 @@
+//   ____                _           _   _           
+//  / ___|_ __ ___  __ _| |_ ___  __| | | |__  _   _ 
+// | |   | '__/ _ \/ _` | __/ _ \/ _` | | '_ \| | | |
+// | |___| | |  __/ (_| | ||  __/ (_| | | |_) | |_| |
+//  \____|_|  \___|\__,_|\__\___|\__,_| |_.__/ \__, |
+//  ____  _ _         _____                    |___/ 
+// / ___|| (_)____   / ___ \                         
+// \___ \| | |_  /  / | _ \ \                        
+//  ___) | | |/ /  |  |   /  |                       
+// |____/|_|_/___|  \ |_|_\ /                        
+//                   \_____/
+
 #include <M5StickCPlus2.h>
 
 #define SCREEN_WIDTH 160
 #define SCREEN_HEIGHT 80
 
-// Таймеры и состояния
-float activationTimer = 5.0;
-float explodeTimer = 120.0;
-float demineTimer = 25.0;
+float activationTimer = 5.0; // Timer for custom the start a bomb
+float explodeTimer = 120.0; // Timer before the explode
+float demineTimer = 25.0; // Timer for demine the bomb
 bool isActivated = false;
 bool isExploding = false;
 bool isDemining = false;
@@ -49,7 +60,7 @@ void setup() {
   M5.Lcd.setTextSize(3);
   M5.Lcd.setCursor(20, 20);
   M5.Lcd.println("T-Bomb");
-  delay(5000); // Ждём 5 секунд
+  delay(5000);
 
   M5.Lcd.fillScreen(TFT_BLACK);
   M5.Lcd.setTextSize(1);
